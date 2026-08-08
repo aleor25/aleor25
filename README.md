@@ -102,12 +102,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
-<div align="center">
-  <a href="https://github.com/aleor25/">
-    <img src="https://github-readme-stats.vercel.app/api?username=aleor25&show_icons=true&theme=dark" width="420" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleor25&layout=compact&theme=dark" width="380" alt="Top Languages"/>
-  </a>
-</div>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleor25&theme=dark&show_icons=true" alt="Alejandro's GitHub Stats" />
+        <br><br>
+        <img title="🔥 Streak Stats" alt="Alejandro's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aleor25&theme=dark&hide_border=false" /> 
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=false&langs_count=8"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<!--- stats (end) -->
 
 <br>
 <br>
