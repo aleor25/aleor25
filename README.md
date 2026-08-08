@@ -83,21 +83,6 @@
 
 </p>
 
-
------
-
-<br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-
-<!--- stats & Trophy (start) -->
-<p align="center">
- <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=true&langs_count=8" alt="Alejandro's Top Languages"/>
-</div>
-</p>
-<!--- stats (end) -->
-
 -----
 
 <br>
