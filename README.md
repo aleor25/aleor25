@@ -1,5 +1,6 @@
 <div align="right">
-  <b>🇺🇸 English</b> | <a href="README-es.md">🇲🇽 Español</a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-0969DA?style=flat&logoColor=white" alt="English"/></a>
+  <a href="README-es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-21262D?style=flat&logoColor=white" alt="Español"/></a>
 </div>
 
 <p align="center">
@@ -8,11 +9,8 @@
 
 <br>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
-
-<br>
 
 - 🚀 Full-Stack Developer capable of translating business requirements into scalable solutions.
 - 🏭 Strong interest in developing technological solutions for industrial environments and critical systems.
@@ -20,12 +18,10 @@
 - 🏆 Outstanding participation as a Technical Analyst and Developer at the Banco Azteca Hackathon (Azkali).
 - 🎓 Upcoming Software Engineering Graduate (UTCV - 2026).
 
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tech Stack & Skills</b>
-<br>
 
 <p align="center">
 
@@ -38,7 +34,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
-<br><br>
 
   <!-- Backend & Security -->
   <b>Backend & Security:</b><br>
@@ -48,7 +43,6 @@
   <img src="https://img.shields.io/badge/Apache_Struts-B71C1C?style=for-the-badge&logo=apache&logoColor=white" alt="Apache Struts"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
 
-<br><br>
 
   <!-- Frontend & Mobile -->
   <b>Frontend & Mobile:</b><br>
@@ -60,7 +54,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 
-<br><br>
 
   <!-- Databases & Data -->
   <b>Databases & Data:</b><br>
@@ -69,7 +62,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<br><br>
 
   <!-- Testing & Tools -->
   <b>Testing, Tools & OS:</b><br>
@@ -80,7 +72,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
 
-<br><br>
 
   <!-- Productivity -->
   <b>Productivity & Documentation:</b><br>
@@ -92,44 +83,26 @@
 
 </p>
 
-<br>
-<br>
 
 -----
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-<br>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=aleor25&theme=dark&show_icons=true" alt="Alejandro's GitHub Stats" />
-        <br><br>
-        <img title="🔥 Streak Stats" alt="Alejandro's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aleor25&theme=dark&hide_border=false" /> 
-      </td>
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=false&langs_count=8"/>
-      </td>
-    </tr>
-  </table>
+ <div align="center">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=true&langs_count=8" alt="Alejandro's Top Languages"/>
+</div>
 </p>
 <!--- stats (end) -->
-
-<br>
-<br>
-<br>
 
 -----
 
 <br>
-<br>
 
 ## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<br>
 <div align='left'>
 
 <ul>
