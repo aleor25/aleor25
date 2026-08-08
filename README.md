@@ -1,11 +1,9 @@
-<!-- Selector de Idioma -->
 <div align="right">
   <b>🇺🇸 English</b> | <a href="README-es.md">🇲🇽 Español</a>
 </div>
 
-<!-- Banner de Canva (Reemplaza el src con el link de tu imagen en inglés) -->
 <p align="center">
-  <img src="AQUI_PONES_EL_LINK_DE_TU_IMAGEN_DE_CANVA_EN_INGLES.png" alt="Alejandro Ortiz - Full-Stack Developer">
+  <img src="./public/background-git.png" alt="Alejandro Ortiz - Full-Stack Developer">
 </p>
 
 <br>
@@ -81,9 +79,9 @@
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO_AQUI/">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USUARIO_AQUI&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Top Languages"/>
+<a href="https://github.com/aleor25/">
+  <img src="https://github-readme-stats.vercel.app/api?username=aleor25&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleor25&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Top Languages"/>
 </a>
 </div>
 
@@ -102,7 +100,7 @@
 
 <ul>
 <li>
-<a href="https://linkedin.com/in/TU_USUARIO_AQUI" target="_blank">
+<a href="https://linkedin.com/in/aleor" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
 </a>
 </li>
