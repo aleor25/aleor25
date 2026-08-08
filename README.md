@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./public/background-git.png" alt="Alejandro Ortiz - Full-Stack Developer">
+  <img src="./public/bg-git.png" alt="Alejandro Ortiz - Full-Stack Developer">
 </p>
 
 <br>
@@ -108,7 +108,7 @@
 <br>
 
 <li>
-<a href="mailto:tu.correo@gmail.com" target="_blank">
+<a href="mailto:alex03ortizperez@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
 </a>
 </li>

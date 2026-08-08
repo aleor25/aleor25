@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="./public/background-git.png" alt="Alejandro Ortiz - Desarrollador Full-Stack">
+  <img src="./public/bg-git.png" alt="Alejandro Ortiz - Desarrollador Full-Stack">
 </p>
 
 <br>
