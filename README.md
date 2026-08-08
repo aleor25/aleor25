@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-0969DA?style=flat&logoColor=white" alt="English"/></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-21262D?style=flat&logoColor=white" alt="English"/></a>
   <a href="README-es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-21262D?style=flat&logoColor=white" alt="Español"/></a>
 </div>
 
@@ -9,20 +9,23 @@
 
 <br>
 
-## **About me**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+
+<picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+
+<br>
 
 - 🚀 Full-Stack Developer capable of translating business requirements into scalable solutions.
 - 🏭 Strong interest in developing technological solutions for industrial environments and critical systems.
 - 💻 Proven experience in modernizing financial systems, client-server architectures, and APIs (REST/SOAP).
 - 🏆 Outstanding participation as a Technical Analyst and Developer at the Banco Azteca Hackathon (Azkali).
+- 🎓 Upcoming Software Engineering Graduate (UTCV - 2026).
 
-<br>
+<br><br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
-
-## <b> Tech Stack & Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Tech Stack & Skills</b>
 
 <p align="center">
 
@@ -76,27 +79,66 @@
 
   <!-- Productivity -->
   <b>Productivity & Documentation:</b><br>
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Word"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Docs"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
 
 </p>
 
 <br>
 
----
+-----
 
 <br>
 
-## <b> Let's Connect!</b> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
 <br>
 
-<p align="left">
-  <a href="https://linkedin.com/in/aleor" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<!--- stats & Trophy (start) -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aleor25&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Top Languages"/>
+</div>
+<br>
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aleor25&theme=dark&hide_border=true" alt="Contribution Streak" />
+</div>
+<!--- stats (end) -->
 
-<p align="left">
-  <a href="mailto:alex03ortizperez@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> &nbsp; <code>alex03ortizperez@gmail.com</code>
-</p>
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/aleor" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:alex03ortizperez@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" style="margin-bottom: 5px;" />
+</a>
+</li>
+    
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
