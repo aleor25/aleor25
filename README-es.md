@@ -1,6 +1,6 @@
 <div align="right">
   <a href="README.md"><img src="https://img.shields.io/badge/🇺🇸_English-21262D?style=flat&logoColor=white" alt="English"/></a>
-  <a href="README-es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-21262D?style=flat&logoColor=white" alt="Español"/></a>
+  <a href="README-es.md"><img src="https://img.shields.io/badge/🇲🇽_Español-0969DA?style=flat&logoColor=white" alt="Español"/></a>
 </div>
 
 <p align="center">
@@ -19,7 +19,6 @@
 - 🏭 Fuerte interés en el desarrollo de soluciones para entornos industriales y sistemas críticos.
 - 💻 Experiencia comprobable en modernización de sistemas financieros, arquitecturas cliente-servidor y APIs (REST/SOAP).
 - 🏆 Participante destacado como Analista Técnico y Desarrollador en el Hackathon Banco Azteca (Azkali).
-- 🎓 Próximo a egresar como Ingeniero en Desarrollo y Gestión de Software (UTCV - 2026).
 
 <br><br>
 
@@ -92,31 +91,9 @@
 -----
 
 <br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 <br>
 
-<!--- stats & Trophy (start) -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aleor25&theme=dark&show_icons=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleor25&theme=dark&hide_border=true&layout=compact&langs_count=6" alt="Lenguajes principales"/>
-</div>
-<br>
-<div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aleor25&theme=dark&hide_border=true" alt="Racha de contribuciones" />
-</div>
-<!--- stats (end) -->
-
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
-
-## <b> ¡Conectemos!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+## <b> ¡Conectemos!</b> <img align="center" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
 <br>
 <div align='left'>
 
