@@ -15,7 +15,6 @@
 - 🏭 Strong interest in developing technological solutions for industrial environments and critical systems.
 - 💻 Proven experience in modernizing financial systems, client-server architectures, and APIs (REST/SOAP).
 - 🏆 Outstanding participation as a Technical Analyst and Developer at the Banco Azteca Hackathon (Azkali).
-- 🎓 Upcoming Software Engineering Graduate (UTCV - 2026).
 
 <br>
 
